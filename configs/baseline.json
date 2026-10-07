@@ -1,0 +1,13 @@
+{
+  "population_size": 80,
+  "generations": 200,
+  "tournament_size": 3,
+  "elite_count": 2,
+  "crossover_rate": 0.9,
+  "bit_mutation_rate": 0.1,
+  "real_mutation_rate": 0.3,
+  "mutation_sigma": 0.15,
+  "penalty_weight": 100.0,
+  "feasibility_tolerance": 1e-08,
+  "target_tolerance": 0.001
+}
