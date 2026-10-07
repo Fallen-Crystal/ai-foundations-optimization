@@ -28,10 +28,14 @@ u_i&\in\{0,1\},\quad i=1,\ldots,5,\\
 - 采用本课程学习过的人工智能方法求解，具体方法不限。
 - 撰写技术报告；不得抄袭。
 - 难度3分，创新性3分。
-- 格式要求：参照给定模板。当前仅提供题目截图与运行手册，未提供报告模板，因此交付报告草稿，待模板提供后适配。
+- 格式要求：参照给定模板。当前仅提供题目截图与运行手册，未提供报告模板，技术报告按用户最新指示暂不撰写，后续再按模板编写。
 
 ## Repository visibility
 
 Create and deliver a PUBLIC GitHub repository, per the user correction. Replace private/PRIVATE/--private requirements with public/PUBLIC/--public.
 
 All other v0.1 runbook scope remains unchanged. No generalized MINLP framework or extra algorithms are introduced.
+
+## Current delivery scope
+
+Per the latest user instruction, deliver preliminary experiments and push the repository only. Defer the technical report; do not treat the full-report runbook acceptance criteria as completed in this round.
